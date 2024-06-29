@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #5190ca;
+}
+
+.conteudo {
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    width: 40%;
+    margin-top: 10px;
+    padding: 20px;
+    border-radius: 5px;
+    color: #15191d;
+    background: #f5f0f0;
+}
+
+p {
+    margin-top: 20px;
+}
